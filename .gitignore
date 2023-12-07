@@ -4,6 +4,8 @@
 !*/
 
 # Other files
+.vscode/
 build/
 *.asm
 *.o
+!Makefile
