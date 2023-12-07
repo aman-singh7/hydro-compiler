@@ -1,0 +1,9 @@
+# Ignore executable file
+*
+!*.*
+!*/
+
+# Other files
+build/
+*.asm
+*.o
